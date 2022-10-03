@@ -9,6 +9,6 @@ function CreditCard(){
 }
 
 function PrivetMir(){
-    window.open("https://privetmir.ru/","_self");
-    console.log("credit card");
+    window.open("https://privetmir.ru/","_blank");
+    console.log("open privetMir");
 }
